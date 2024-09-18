@@ -91,10 +91,11 @@ footer{
 }
 
 #boton-form:hover {
-        background-color: #fa5780;
+        background-color: #a50d33;
         color: #fff;
         font-weight: 400;
         border-radius: 5px;
         width: 100%;
+        cursor: pointer;
     }
 
